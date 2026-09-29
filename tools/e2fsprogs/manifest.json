@@ -1,0 +1,145 @@
+{
+  "mirror": "https://ftp.fau.de/cygwin/",
+  "packages": {
+    "e2fsprogs": {
+      "version": "1.44.5-1",
+      "url": "https://ftp.fau.de/cygwin/x86_64/release/e2fsprogs/e2fsprogs-1.44.5-1.tar.xz",
+      "size": 783804,
+      "sha512": "32730dee0384e1dd8557982133c98e896ceda8e445e0a794413cda32349ac429997dbc7a338d34480b22bafe624a83454fb8d22fbb3b90c771eb95ed345814e1"
+    },
+    "libblkid1": {
+      "version": "2.40.2-2",
+      "url": "https://ftp.fau.de/cygwin/x86_64/release/util-linux/libblkid1/libblkid1-2.40.2-2.tar.xz",
+      "size": 120936,
+      "sha512": "d931c47cce5a7caf18799a16ed526e0f0d0f82c0f6d0af952420d50d88f1e0f0ea9d6c07be72f9d0baa06a3299b2db8c3bd3c43d13d94400edc816e7c00da148"
+    },
+    "libcom_err2": {
+      "version": "1.44.5-1",
+      "url": "https://ftp.fau.de/cygwin/x86_64/release/e2fsprogs/libcom_err2/libcom_err2-1.44.5-1.tar.xz",
+      "size": 4132,
+      "sha512": "3344fbc09364d789e92a81af5ba1e830dd47cef3392a1ee389a2fd49a9cc56a63afc78bebefb92c025d8222e6e454c114d572f0f395e5e20ede2b2266b0fe709"
+    },
+    "libe2p2": {
+      "version": "1.44.5-1",
+      "url": "https://ftp.fau.de/cygwin/x86_64/release/e2fsprogs/libe2p2/libe2p2-1.44.5-1.tar.xz",
+      "size": 10024,
+      "sha512": "9d56cd56ffc2488806588bce243761ce5a8719492ee974b6140a09253024a3e35242b398b92c80e873799ed7b909a14bb8d0f410879d83ab457d6db5dbb14430"
+    },
+    "libext2fs2": {
+      "version": "1.44.5-1",
+      "url": "https://ftp.fau.de/cygwin/x86_64/release/e2fsprogs/libext2fs2/libext2fs2-1.44.5-1.tar.xz",
+      "size": 126164,
+      "sha512": "55e1ccb30354f84ac88762db54efc4d4d8d7475062935214795a26a48b7a72e897d4a870ff72c82ae3a7cd6924ff903ec52773f0b004d490a759b2cb2d7907ce"
+    },
+    "libgcc1": {
+      "version": "14.4.0-1",
+      "url": "https://ftp.fau.de/cygwin/x86_64/release/gcc/libgcc1/libgcc1-14.4.0-1-x86_64.tar.zst",
+      "size": 59166,
+      "sha512": "5ac8a56e5eee285efcd6dbd05a473e795e181021d7194b8a98dfe2fa201a71f0abe2908e0b4c81490eb5ef472efaeac8e56a61a5f289eee4ad6e90e52a844ff8"
+    },
+    "libiconv2": {
+      "version": "1.19-2",
+      "url": "https://ftp.fau.de/cygwin/x86_64/release/libiconv/libiconv2/libiconv2-1.19-2-x86_64.tar.xz",
+      "size": 555664,
+      "sha512": "a1b23e24e0a495e7163923bcf40a4b933403e0826cfc0d9bde785bc92c909b8c4fb94b1e6b2c0242f4328a723855e72ff3baab9f557ef855b7fe7a7d901b0943"
+    },
+    "libintl8": {
+      "version": "0.22.5-1",
+      "url": "https://ftp.fau.de/cygwin/x86_64/release/gettext/libintl8/libintl8-0.22.5-1.tar.xz",
+      "size": 43256,
+      "sha512": "370a19af888bc7c9ed95cf8ade0d36d5e7cdb634abdebcba260cad61fa9a4cc05b5e748e315c9709f66861e8756b227d6757d529846591189e19ee2b2d00002d"
+    },
+    "libss2": {
+      "version": "1.44.5-1",
+      "url": "https://ftp.fau.de/cygwin/x86_64/release/e2fsprogs/libss2/libss2-1.44.5-1.tar.xz",
+      "size": 8132,
+      "sha512": "a434560c0b52e5a13ee035346a6d3217d8d39026abe9f4f3cfafed7a16daef33c1322a18bbd99fcfd89fd702812e3463fafa521e78617f478600846a46c5ca9e"
+    },
+    "libuuid1": {
+      "version": "2.40.2-2",
+      "url": "https://ftp.fau.de/cygwin/x86_64/release/util-linux/libuuid1/libuuid1-2.40.2-2.tar.xz",
+      "size": 12532,
+      "sha512": "3ba0c5d5a401c88796077e9f45164532408882f2f5d9f0ab99b2fdf6eb915917250124cde3653a7c53b648866e091aa3baf3304d0b243337f0d4e254a7631f55"
+    },
+    "cygwin": {
+      "version": "3.6.10-1",
+      "url": "https://ftp.fau.de/cygwin/x86_64/release/cygwin/cygwin-3.6.10-1-x86_64.tar.xz",
+      "size": 1626060,
+      "sha512": "50e5a100f5229eecba279799363a30d599f8c6ad06967eabc4fc8ed9105736576a522539abc250110282cf18da8536d4e408823cc6c0d2abd8692a91d9fd3341"
+    }
+  },
+  "files": {
+    "debugfs.exe": {
+      "package": "e2fsprogs",
+      "size": 181779,
+      "sha256": "cb2228400b88b60e685d7ca8815b7f3d7773aeb53f2943586545b66568dd745a",
+      "reference_comparison": "NO REFERENCE"
+    },
+    "e2fsck.exe": {
+      "package": "e2fsprogs",
+      "size": 274963,
+      "sha256": "aadfcfbb1f69e2e4af9980c566f718d34177acb4529a6ae29af4f2f01984f378",
+      "reference_comparison": "NO REFERENCE"
+    },
+    "cygblkid-1.dll": {
+      "package": "libblkid1",
+      "size": 292883,
+      "sha256": "876bff927ac5f50be592153599f2a24b3eac7d857ae208294580325aadcdf6a1",
+      "reference_comparison": "NO REFERENCE"
+    },
+    "cygcom_err-2.dll": {
+      "package": "libcom_err2",
+      "size": 12819,
+      "sha256": "00ae02a58608150cd8769e63516107e48536405b39034c906740bdc2594fced5",
+      "reference_comparison": "NO REFERENCE"
+    },
+    "cyge2p-2.dll": {
+      "package": "libe2p2",
+      "size": 29715,
+      "sha256": "78ac95572cfc877698bb0b5387b01923bf6e5681b3c6bd8335bec1e54a595389",
+      "reference_comparison": "NO REFERENCE"
+    },
+    "cygext2fs-2.dll": {
+      "package": "libext2fs2",
+      "size": 281619,
+      "sha256": "b958e08a0c03bb5c48905f2360e97bac82379ea038efc946490bc9d91bb34778",
+      "reference_comparison": "NO REFERENCE"
+    },
+    "cyggcc_s-seh-1.dll": {
+      "package": "libgcc1",
+      "size": 142867,
+      "sha256": "2aa1cb02f63b828c7fdbf0c23e7cc7832047184913c7d81db5d5102caef0a4eb",
+      "reference_comparison": "NO REFERENCE"
+    },
+    "cygiconv-2.dll": {
+      "package": "libiconv2",
+      "size": 1104915,
+      "sha256": "ef60ac449ec718c1724bad21c9e0c9904659ada9644f3ac7ea8ad5d5b8d8140e",
+      "reference_comparison": "NO REFERENCE"
+    },
+    "cygintl-8.dll": {
+      "package": "libintl8",
+      "size": 108051,
+      "sha256": "6204e4ceed8b111d56b212a2fc0ec4cd9d570b67f5cae5d3773d74e4e2b2f7d1",
+      "reference_comparison": "NO REFERENCE"
+    },
+    "cygss-2.dll": {
+      "package": "libss2",
+      "size": 22547,
+      "sha256": "ebffb56beb6059cb3970c288e157ada1168079e6825bf438c16a451f67051720",
+      "reference_comparison": "NO REFERENCE"
+    },
+    "cyguuid-1.dll": {
+      "package": "libuuid1",
+      "size": 28179,
+      "sha256": "9abd4a72f3144c9aa9d7b61bf4d57794859434067d93ac998eecf911bcfe6b47",
+      "reference_comparison": "NO REFERENCE"
+    },
+    "cygwin1.dll": {
+      "package": "cygwin",
+      "size": 3234357,
+      "sha256": "d66788fce4ef1ce787fc1a83f2dd1e063e58bbf0d48ad93164ee195a983c035e",
+      "reference_comparison": "NO REFERENCE"
+    }
+  }
+}
